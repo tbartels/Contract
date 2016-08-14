@@ -1,6 +1,6 @@
 # CSS Wizardry Ltd. contract
 
-This is the standard contract to which I—acting as CSS Wizardry Ltd.—operate.
+This is the standard contract to which I — acting as Opticgait Ltd. — operate.
 This contract can be amended and updated to be tailored to individual clients
 and projects, this is merely my boilerplate.
 
@@ -16,10 +16,11 @@ entirely at your own risk.
 I, as you’ve probably already guessed, am not a lawyer. This is a simple,
 layman’s contract that I have drawn up purely to manage the expectations of both
 myself and my clients. If you have an suggestions, improvements or criticisms,
-please [open an issue](https://github.com/csswizardry/Contract/issues) or
-[submit a pull request](https://github.com/csswizardry/Contract/pulls).
+please [open an issue](https://github.com/tbartels/Contract/issues) or
+[submit a pull request](https://github.com/tbartels/Contract/pulls).
 
 ## Thank you
 
-With special thanks to [Andrew Clarke](https://twitter.com/Malarkey) and [Anna
-Debenham](https://twitter.com/anna_debenham).
+With special thanks to [Andrew Clarke](https://twitter.com/Malarkey), [Anna
+Debenham](https://twitter.com/anna_debenham), and [Harry
+Roberts](https://github.com/csswizardry).

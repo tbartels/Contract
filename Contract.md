@@ -6,11 +6,10 @@
   it.
 * **‘The Work’** refers to the project for which this document was actioned.
   This could be, but is far from limited to: a workshop, consultancy time,
-  development work, a conference talk.
+  development work, design work.
 * **‘You’** refers to the client or company on behalf of whom The Work is
   commissioned.
-* **‘I’** refers to me, Harry Roberts, working for You on behalf of CSS Wizardry
-  Ltd.
+* **‘I’ or ‘me’** refers to me, Thomas Bartels, working for You.
 
 ## About this document
 
@@ -34,9 +33,9 @@ signing the document. Each project I undertake will have its own individual
 nuances and requirements, so I am able and willing to modify this document to
 suit the needs of each project.
 
-In summary, The Client is contracting CSS Wizardry Ltd. to complete
-work outlined within this document and/or other documents in accordance with
-agreed briefs, specifications, costs and deadlines.
+In summary, The Client is contracting Thomas Bartels to complete work outlined
+within this document and/or other documents in accordance with agreed briefs,
+specifications, costs and deadlines.
 
 Now, let’s do great work together!
 
@@ -44,7 +43,7 @@ Now, let’s do great work together!
 
 ## Involved parties
 
-**Harry Roberts, ‘CSS Wizardry’, ‘I’:**
+**Thomas Bartels, ‘I’, ‘me’:**
 
 [Address]
 
@@ -85,22 +84,10 @@ licenses, and it is Your responsibility to ensure that any supplied materials
 Once the entire outstanding balance of the project has been paid, all relevant
 copyright of The Work that can be assigned to You shall be.
 
-There will likely be a few grey areas if The Work is a workshop or conference
-talk that You have paid for but not explicitly commissioned. For example: if I
-were to give a public talk at Your conference, I would like to retain copyright
-of the slides etc. so as to share them with the wider community; if I am
-commissioned to give a workshop specifically for/to Your business, You would
-retain the copyright. I like to think we can agree on the intricacies of these
-on a case-by-case basis.
-
 ## Disclosure
 
 I am more than happy to sign a Non-Disclosure Agreement (NDA) in order to work
 on Your project.
-
-I often like to write and tweet about the projects I am currently working on; if
-there is no NDA in place I shall assume that You authorise me to do this. Please
-explicitly state if this is not acceptable before signing this document.
 
 I shall explicitly seek Your consent before open sourcing—or writing in any
 detail about—any of the code or techniques employed in The Work.
@@ -116,9 +103,10 @@ For any changes that do change the scope of The Work, please see the _Change
 in scope_ section of this document.
 
 Any bugs, which, unfortunately, cannot be guaranteed against, that are directly
-related to The Work, and are discovered within two weeks of the end of The Work,
-shall be fixed as a matter of course, and require no renegotiation of terms. I
-also apologise in advance if we should ever find ourselves in this situation.
+related to The Work, and are discovered within two weeks of the end of The
+Work, shall be fixed as a matter of course, and require no renegotiation of
+terms. I also apologise in advance if we should ever find ourselves in this
+situation.
 
 Maintenance of The Work is not covered by either the project’s costs or this
 document unless explicitly agreed. Maintenance work can be specced out and
@@ -126,28 +114,28 @@ priced separately to the scope of The Work.
 
 ## Payment
 
-Being a small business, cash flow is very important to CSS Wizardry. As such, it
-is asked that You meet the payment terms outlined below.
+Being a small business, cash flow is very important to me. As such, it is asked
+that You meet the payment terms outlined below.
 
 ### Deposit
 
 An upfront deposit of 50% is required before commencing with any agreed work.
-This deposit is non-refundable and will only be paid once a fixed scope has been
-set, and we are confident that we wish to work together to these agreed terms.
-No deposit shall be taken until You are completely happy with, and clear about,
-the agreed scope of The Work and its surrounding terms. Work shall commence as
-soon as the deposit is received.
+This deposit is non-refundable and shall only be paid once a fixed scope has
+been set, and we are confident that we wish to work together to these agreed
+terms.  No deposit shall be taken until You are completely happy with, and
+clear about, the agreed scope of The Work and its surrounding terms. Work shall
+commence as soon as the deposit is received.
 
 ### Payment terms
 
 Once a project is deemed complete, an invoice shall be raised for the remaining
 50% of the project cost, along with any other incidental costs (see _Expenses_).
-The remaining balance shall be paid within 14 days of it being invoiced.
+The remaining balance shall be paid within 15 days of it being invoiced.
 
 ### Expenses
 
-Any expenses (e.g. travel, accommodation, font licenses, etc.) shall be charged
-on top of any charges relating directly to The Work.
+Any expenses (e.g. travel, accommodation, font licenses, stock images, etc.)
+shall be charged on top of any charges relating directly to The Work.
 
 ## tl;dr
 
@@ -159,7 +147,7 @@ and after The Work.
 The undersigned confirm that they have read, understood, and shall adhere to the
 terms laid out in this document:
 
-* **Harry Roberts:**
+* **Thomas Bartels:**
 * **Date:**
 
 * **You:**
