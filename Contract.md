@@ -1,42 +1,41 @@
-<!--<!DOCTYPE html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body> -->
+<!--DOCTYPE html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body-->
 # Contract
 
 ## Terms and definitions
 
-* **‘This document’** refers to this contract and the terms and agreements within
-  it.
+* **‘This document’** refers to this contract and the terms and agreements
+	within it.
 * **‘The Work’** refers to the project for which this document was actioned.
-  This could be, but is far from limited to: a workshop, consultancy time,
-  development work, design work.
-* **‘You’** refers to the client or company on behalf of whom The Work is
-  commissioned.
-* **‘I’ or ‘me’** refers to me, Thomas Bartels, working for You.
+* **‘You’** refers to the client (‘{{theclient}}’) or company on behalf of
+	whom The Work is commissioned.
+* **‘I’ or ‘Me’** refers to me, Thomas Bartels, working for You.
 
 ## About this document
 
 I’m really excited that we’re at the stage where we’re signing contracts; it
 means that we’re a great fit both professionally and personally (I like working
-with nice people). I am very keen to maintain this relationship, and I hope this
-document can help us with that. I have tried to remain firm but fair, and I hope
-everything within this document seems reasonable.
+with nice people). I am very keen to maintain this relationship, and I hope
+this document can help us with that. I have tried to remain firm but fair, and
+I hope everything within this document seems reasonable.
 
-I have a very laid back and informal approach to my work, and I am not a fan of
-small print or legalese, so I aim to keep this document as concise and casual as
-possible. I hope You agree—and are comfortable—with this tone and approach.
+I have a fairly laid back and informal approach to my work, and I am not a fan
+of small print or legalese, so I aim to keep this document as concise and
+casual as possible. I hope You agree—and are comfortable—with this tone and
+approach.
 
 This document exists to protect the interests of all involved parties, to
 outline our responsibilities to one another, and to avoid any confusion or
 disappointment during and/or after our time working together.
 
-If anything is unclear please do not hesitate to ask me any questions. It is
+If anything is unclear please do not hesitate to ask Me any questions. It is
 also important to know that amendments and additions can be requested _prior_ to
 signing the document. Each project I undertake will have its own individual
 nuances and requirements, so I am able and willing to modify this document to
 suit the needs of each project.
 
-In summary, The Client is contracting Thomas Bartels to complete work outlined
-within this document and/or other documents in accordance with agreed briefs,
-specifications, costs and deadlines.
+In summary, {{theclient}} is contracting Thomas Bartels to complete work
+outlined within this document and/or other documents in accordance with agreed
+briefs, specifications, costs and deadlines.
 
 Now, let’s do great work together!
 
@@ -44,13 +43,11 @@ Now, let’s do great work together!
 
 ## Involved parties
 
-**Thomas Bartels, ‘I’, ‘me’:**
+**Thomas Bartels, ‘I’, ‘Me’:**
+{{myaddress}}
 
-[Address]
-
-**[Name], ‘The Client’, ‘You’:**
-
-[Address]
+**{{theclient}}, ‘The Client’, ‘You’:**
+{{clientaddress}}
 
 ## Scope of The Work
 
@@ -149,7 +146,9 @@ The undersigned confirm that they have read, understood, and shall adhere to the
 terms laid out in this document:
 
 * **Thomas Bartels:**
+
 * **Date:**
 
 * **You:**
+
 * **Date:**
