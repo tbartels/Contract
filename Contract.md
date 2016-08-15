@@ -47,7 +47,7 @@ Now, let’s do great work together!
 
 {{my_address}}
 
-**[Name], ‘The Client’, ‘You’:**
+**{{Name}}, ‘The Client’, ‘You’:**
 
 {{client_address}}
 
@@ -63,6 +63,9 @@ be, but need not be limited to: consultancy time, software development work,
 graphic design work, network operations.
 
 I am agreeing to perform {{work_hours}} hours of work per {{timeframe}} period.
+I am agreeing to be available to perform **{{work_hours}}** hours of work
+**{{timeframe}}** on a retainer basis at a rate of **{{retainer_rate}}**.
+
 
 ### Additional Work
 
@@ -91,12 +94,12 @@ Monthly retainers provide ongoing support at a discounted rate up to the number
 of hours set forth in This Document. Retainer fees are required in full in
 advance of services. If payment is not received on or before initiating work,
 full standard hourly rates will apply for any work performed during that
-period, and monies received will be applied accordingly. Any of The Work
-I perform beyond the retained number of hours will be billed at the full
-hourly. Payments rendered are considered fully earned and non refundable.
-Unused hours are not carried over; it is incumbent upon You to utilize the
-retained hours each month. I will notify You when the retained hours are
-exhausted.
+period, and monies received will be applied accordingly. Any of The Work I
+perform beyond the retained number of hours will be billed at the full hourly
+rate of {{hourly_rate}}.  Payments rendered are considered fully earned and non
+refundable.  Unused hours are not carried over; it is incumbent upon You to
+utilize the retained hours each month. I will notify You when the retained
+hours are exhausted.
 
 ### Expenses
 
