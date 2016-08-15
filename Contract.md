@@ -115,20 +115,13 @@ priced separately to the scope of The Work.
 Being a small business, cash flow is very important to me. As such, it is asked
 that You meet the payment terms outlined below.
 
-### Deposit
-
-An upfront deposit of 50% is required before commencing with any agreed work.
-This deposit is non-refundable and shall only be paid once a fixed scope has
-been set, and we are confident that we wish to work together to these agreed
-terms.  No deposit shall be taken until You are completely happy with, and
-clear about, the agreed scope of The Work and its surrounding terms. Work shall
-commence as soon as the deposit is received.
-
 ### Payment terms
 
-Once a project is deemed complete, an invoice shall be raised for the remaining
-50% of the project cost, along with any other incidental costs (see _Expenses_).
-The remaining balance shall be paid within 15 days of it being invoiced.
+Invoices will be generated at the start of each month after any of The Work has
+been performed with a tally of all the uninvoiced hours. Once a project is
+deemed complete, an final invoice shall be raised for the remaining balance of
+the project cost, along with any other incidental costs (see _Expenses_). All
+balances shall be paid within 15 days of being invoiced.
 
 ### Expenses
 
