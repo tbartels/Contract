@@ -13,13 +13,14 @@
 
 I’m really excited that we’re at the stage where we’re signing contracts; it
 means that we’re a great fit both professionally and personally (I like working
-with nice people). I am very keen to maintain this relationship, and I hope this
-document can help us with that. I have tried to remain firm but fair, and I hope
-everything within this document seems reasonable.
+with nice people). I am very keen to maintain this relationship, and I hope
+this document can help us with that. I have tried to remain firm but fair, and
+I hope everything within this document seems reasonable.
 
-I have a very laid back and informal approach to my work, and I am not a fan of
-small print or legalese, so I aim to keep this document as concise and casual as
-possible. I hope You agree—and are comfortable—with this tone and approach.
+I have a fairly laid back and informal approach to my work, and I am not a fan
+of small print or legalese, so I aim to keep this document as concise and
+casual as possible. I hope You agree—and are comfortable—with this tone and
+approach.
 
 This document exists to protect the interests of all involved parties, to
 outline our responsibilities to one another, and to avoid any confusion or
@@ -44,11 +45,11 @@ Now, let’s do great work together!
 
 **Thomas Bartels, ‘I’, ‘me’:**
 
-[Address]
+{{my_address}}
 
 **[Name], ‘The Client’, ‘You’:**
 
-[Address]
+{{client_address}}
 
 ## Scope of The Work
 
@@ -160,7 +161,7 @@ The undersigned confirm that they have read, understood, and shall adhere to the
 terms laid out in this document:
 
 * **Thomas Bartels:**
-* **Date:**
+* **{{date}}:**
 
 * **You:**
 * **Date:**
