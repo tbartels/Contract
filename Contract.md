@@ -20,10 +20,10 @@ I hope everything within this document seems reasonable.
 
 I have a fairly laid back and informal approach to my work, and I am not a fan
 of small print or legalese, so I aim to keep this document as concise and
-casual as possible. I hope You agree—and are comfortable—with this tone and
-approach.
+casual as possible. I hope You agree -- and are comfortable -- with this tone
+and approach.
 
-This document exists to protect the interests of all involved parties, to
+This document exists to express the interests of all involved parties, to
 outline our responsibilities to one another, and to avoid any confusion or
 disappointment during and/or after our time working together.
 
@@ -84,8 +84,8 @@ copyright of The Work that can be assigned to You shall be.
 
 ## Disclosure
 
-I am more than happy to sign a Non-Disclosure Agreement (NDA) in order to work
-on Your project.
+I am more than happy to discuss a Non-Disclosure Agreement (NDA) in order to
+work on Your project.
 
 I shall explicitly seek Your consent before open sourcing—or writing in any
 detail about—any of the code or techniques employed in The Work.
