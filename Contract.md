@@ -57,6 +57,13 @@ documents detailing the scope of The Work are supplementary to this document and
 shall be referenced and referred to when agreeing and defining the project’s
 scope.
 
+The work will generally fall under the category of web development, this could
+be, but need not be limited to: consultancy time, software development work,
+graphic design work, network operations, SEO optimization, UX development.
+
+The rate for all non-development work will be billed at 65 USD per hour.
+The rate for all development work will be billed at 110 USD per hour.
+
 ### Change in scope
 
 There are times when the scope of The Work may change. Ideally we will handle
@@ -115,20 +122,12 @@ priced separately to the scope of The Work.
 Being a small business, cash flow is very important to me. As such, it is asked
 that You meet the payment terms outlined below.
 
-### Deposit
-
-An upfront deposit of 50% is required before commencing with any agreed work.
-This deposit is non-refundable and shall only be paid once a fixed scope has
-been set, and we are confident that we wish to work together to these agreed
-terms.  No deposit shall be taken until You are completely happy with, and
-clear about, the agreed scope of The Work and its surrounding terms. Work shall
-commence as soon as the deposit is received.
-
 ### Payment terms
 
-Once a project is deemed complete, an invoice shall be raised for the remaining
-50% of the project cost, along with any other incidental costs (see _Expenses_).
-The remaining balance shall be paid within 15 days of it being invoiced.
+After the 1st of each calendar month we are still working together an invoice
+for the hours worked during the prior calendar month shall be raised along with
+any incidental costs (see _Expenses_). The balance should be paid within 15
+days of being invoiced.
 
 ### Expenses
 
@@ -142,8 +141,8 @@ and after The Work.
 
 ## Signatures
 
-The undersigned confirm that they have read, understood, and shall adhere to the
-terms laid out in this document:
+The undersigned confirm that they have read and understood the terms laid out
+in this document:
 
 * **Thomas Bartels:**
 
