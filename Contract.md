@@ -38,8 +38,8 @@ The scope of The Work I will be carrying out for You will likely have been outli
 
 The work will generally fall under the category of web development, this could be, but need not be limited to: consultancy time, software development work, graphic design work, network operations, SEO optimization, UX development.
 
-The rate for all non-development work will be billed at {{nondevrate}} USD per hour.
-The rate for all development work will be billed at {{devrate}} USD per hour.
+The rate for all non-development work will be billed at {{nondevrate}} {{currency}} per hour.
+The rate for all development work will be billed at {{devrate}} {{currency}} per hour.
 
 ### Change in scope
 
@@ -59,7 +59,7 @@ Once the entire outstanding balance of the project has been paid, all relevant c
 
 I am more than happy to discuss a Non-Disclosure Agreement (NDA) in order to work on Your project.
 
-I shall explicitly seek Your consent before open sourcing—or writing in any detail about—any of the code or techniques employed in The Work.
+I shall explicitly seek Your consent before open sourcing —or writing in any detail about— any of the code or techniques employed in The Work.
 
 ## Alterations, amends and maintenance
 
