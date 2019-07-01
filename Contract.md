@@ -3,11 +3,9 @@
 
 ## Terms and definitions
 
-* **‘This document’** refers to this contract and the terms and agreements
-	within it.
+* **‘This document’** refers to this contract and the terms and agreements within it.
 * **‘The Work’** refers to the project for which this document was actioned.
-* **‘You’** refers to the client (‘{{theclient}}’) or company on behalf of
-	whom The Work is commissioned.
+* **‘You’** refers to the client (‘{{theclient}}’) or {{thecompany}} on behalf of whom The Work is commissioned.
 * **‘I’ or ‘Me’** refers to me, Thomas Bartels, working for You.
 
 ## About this document
