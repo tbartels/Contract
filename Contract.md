@@ -142,6 +142,6 @@ terms laid out in this document:
 
 * **Date:**
 
-* **You:**
+* **{{theclient}}:**
 
 * **Date:**
